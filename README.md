@@ -37,7 +37,16 @@ Pie charts comparing the gender and race demographics of the US Senate to the US
 
 ### Results
 
-With this project, it was found overall that the US Senate is not as representative of the US population as a whole as would be desired in this diverse nation. While the US is 49% male and 58% white, the Senate is 74% male and 91% white. Beyond these interesting statistics, the committee network also provided a lot of insight into the general lack of diversity in thought of the US Senate.
+With this project, it was found overall that the US Senate is not as representative of the US population as a whole as would be desired in this diverse nation. While the US is 49% male and 58% white, the Senate is 74% male and 91% white. Beyond these interesting statistics, the committee network also provided a lot of insight into the general lack of diversity in thought of the US Senate. Below is the network visualization itself.
+
+![](/images/Committee_Network.png)
+
+Though the viz contains some technical jargon, we may take note of the following:
+* There are 136 possible pairs of committees
+* There is an average of almost 4 Senators shared among any two committees
+* There are only 12 committee pairs which do not share a Senator
+* 91% of committee pairs share at least one Senator
+* The average committee shares a Senator with over 14 other committees
 
 ## Data
 The data we used was collected from two places. We used the [demographics and economy section of the Kaiser Family Foundation website](https://www.kff.org/state-category/demographics-and-the-economy/) for up to date US demographics, and we used the [US Senate website](https://www.senate.gov/reference/stats_and_lists.htm) to collect information about Senators and committees during the 116th United States Congress.
