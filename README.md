@@ -3,6 +3,10 @@ A tableau story explaining diversity and the interconnected nature of Senate com
 
 ## Summary
 
+### Goals of this Project
+
+With this project, we aimed to give the voting American citizen, or anyone interested in the US Senate for that matter, an interactive tool which allows users to investigate the make-up of US Senate committees. We wanted our audience to be better informed and feel more comfortable with the subject of politics, enriching them with the knowledge of the power members of the Senate hold.
+
 ### Instructions
 
 To view the Tableau story, download the provided .twbx file to your desired location on your pc. It is of note that in order to view the story and interactive dashboard themselves, a Tableau license is required.
@@ -31,8 +35,12 @@ If you wish to view the demographics of a specific group of committees, you can 
 
 Pie charts comparing the gender and race demographics of the US Senate to the US as a whole are on the right side of the dashboard. The rest is up to you from here! Play around with the dashboard a bit and see what you discover.
 
+### Results
+
+With this project, it was found overall that the US Senate is not as representative of the US population as a whole as would be desired in this diverse nation. While the US is 49% male and 58% white, the Senate is 74% male and 91% white. Beyond these interesting statistics, the committee network also provided a lot of insight into the general lack of diversity in thought of the US Senate.
+
 ## Data
-The data we used was collected from two places. We used the [demographics and economy section of the Kaiser Family Foundation website](https://www.kff.org/state-category/demographics-and-the-economy/) for up to date US demographics, and we used the [US Senate website](https://www.senate.gov/reference/stats_and_lists.htm) to collect information about Senators and committees.
+The data we used was collected from two places. We used the [demographics and economy section of the Kaiser Family Foundation website](https://www.kff.org/state-category/demographics-and-the-economy/) for up to date US demographics, and we used the [US Senate website](https://www.senate.gov/reference/stats_and_lists.htm) to collect information about Senators and committees during the 116th United States Congress.
 
 ## Methods
 Tools:
