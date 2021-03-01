@@ -35,7 +35,7 @@ If you wish to view the demographics of a specific group of committees, you can 
 
 Pie charts comparing the gender and race demographics of the US Senate to the US as a whole are on the right side of the dashboard. The rest is up to you from here! Play around with the dashboard a bit and see what you discover.
 
-### Results
+### Results & Discussion
 
 With this project, it was found overall that the US Senate is not as representative of the US population as a whole as would be desired in this diverse nation. While the US is 49% male and 58% white, the Senate is 74% male and 91% white. Beyond these interesting statistics, the committee network also provided a lot of insight into the general lack of diversity in thought of the US Senate. Below is the network visualization itself.
 
@@ -47,6 +47,8 @@ Though the viz contains some technical jargon, we may take note of the following
 * There are only 12 committee pairs which do not share a Senator
 * 91% of committee pairs share at least one Senator
 * The average committee shares a Senator with over 14 other committees
+
+Every US election, citizens have a chance for their voices to be heard. Even beyond that, we can create movements and propositions to make the Senate both more representative and efficient. Let's continue to work and make the US a country our citizens deserve!
 
 ## Data
 The data we used was collected from two places. We used the [demographics and economy section of the Kaiser Family Foundation website](https://www.kff.org/state-category/demographics-and-the-economy/) for up to date US demographics, and we used the [US Senate website](https://www.senate.gov/reference/stats_and_lists.htm) to collect information about Senators and committees during the 116th United States Congress.
@@ -61,8 +63,6 @@ Tools:
 Python Packages:
 * Numpy, to uncover underlying stats
 * Pandas, to store and clean data
-
-## Discussion
 
 ## Future Work
 With the base work set for the project, we have decided the following next steps would be appropriate:
