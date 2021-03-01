@@ -2,7 +2,34 @@
 A tableau story explaining diversity and the interconnected nature of Senate committees. Created by AJ Liberatore (liberatorea@wit.edu) and Jayden Butts (buttsj@wit.edu). This project had a focus on data collection and data visualization.
 
 ## Summary
-**Instructions:** To view the Tableau story, download the provided .twbx file to your desired location on your pc. It is of note that in order to view the story and interactive dashboard themselves, a Tableau license is required.
+
+### Instructions
+
+To view the Tableau story, download the provided .twbx file to your desired location on your pc. It is of note that in order to view the story and interactive dashboard themselves, a Tableau license is required.
+
+#### Story
+
+For the story, scroll to the story tab in the provided .twbx titled "Diversity in US Senate Committees". Click on the right arrow next to each story point to progress through the story. 
+
+![](/Tutorial/StoryTutorial1.png)
+
+Further instructions, such as how to interact with the demographic visualization, are included in the story. More in-depth instruction for the dashboard are below.
+
+#### Dashboard
+
+For the dashboard, scroll to the dashboard tab in the provided .twbx titled "Senate Representation Breakdown".
+
+Scrolling over each individual dot in the geographic map, you are able to see a bio for a specific Senator. The size of the dot is scaled based on the number of committees and seats of power a Senator holds, and the dot is colored to their identified party.
+
+![](/Tutorial/DashboardTutorial1.png)
+
+If you wish to view the demographics of a specific group of committees, you can go to the middle of the dashboard and select up to 10 committees you wish to view.
+
+![](/Tutorial/DashboardTutorial2.png)
+
+![](/Tutorial/DashboardTutorial3.png)
+
+Pie charts comparing the gender and race demographics of the US Senate to the US as a whole are on the right side of the dashboard. The rest is up to you from here! Play around with the dashboard a bit and see what you discover.
 
 ## Data
 The data we used was collected from two places. We used the [demographics and economy section of the Kaiser Family Foundation website](https://www.kff.org/state-category/demographics-and-the-economy/) for up to date US demographics, and we used the [US Senate website](https://www.senate.gov/reference/stats_and_lists.htm) to collect information about Senators and committees.
