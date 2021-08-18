@@ -1,5 +1,5 @@
 # US-Senate-Committees
-A tableau story explaining diversity and the interconnected nature of Senate committees. Created by AJ Liberatore (liberatorea@wit.edu) and Jayden Butts (buttsj@wit.edu). This project had a focus on data collection and data visualization.
+A tableau story explaining diversity and the interconnected nature of Senate committees. Created by AJ Liberatore (liberatorea@wit.edu, https://liberatorea94.github.io/AJ_Portfolio/) and Jayden Butts (buttsj@wit.edu). This project had a focus on data collection and data visualization.
 
 ## Summary
 
